@@ -55,3 +55,12 @@ The layout structure:
 
 This project was developed with assistance from ChatGPT for layout structure and Compose syntax guidance.
 All code was reviewed and understood before submission.
+
+---
+
+# Screen Shots
+
+<img width="205" height="421" alt="Screenshot 2026-02-23 at 5 47 28 PM" src="https://github.com/user-attachments/assets/8891494e-e556-4fce-a6ff-74f2eb111d6f" />
+
+
+<img width="215" height="429" alt="Screenshot 2026-02-23 at 5 47 36 PM" src="https://github.com/user-attachments/assets/82513693-5f92-4c36-b95c-32fb1e70dcd8" />
